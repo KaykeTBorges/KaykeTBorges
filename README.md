@@ -53,6 +53,10 @@ Open to collaboration, learning opportunities, and meaningful projects in data s
 
   <br><br>
 
-  ![Snake animation](https://github.com/KaykeTBorges/KaykeTBorges/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaykeTBorges/KaykeTBorges/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaykeTBorges/KaykeTBorges/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KaykeTBorges/KaykeTBorges/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
