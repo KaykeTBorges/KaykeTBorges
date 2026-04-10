@@ -9,12 +9,6 @@ I’m curious, proactive, and always looking to learn new technologies and impro
 
 Open to collaboration, learning opportunities, and meaningful projects in data science and AI.
 
-<div align="center">
-  <a href="https://github.com/KaykeTBorges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykeTBorges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeTBorges&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ---
 
 ## 📚 Currently Learning
